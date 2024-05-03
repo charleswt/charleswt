@@ -1,15 +1,14 @@
 # Charles Tiffany 👾
 
 ## 🖥️ About Me
-Part time web developer, full time debugger.
+Part-time web developer, full-time debugger.
 
 ### 🛠️ Skills
-- **Primary**: Server side development, Python, Go and Javascript.
-- **Learning**: English
-- **Environment**: Arch Linux and vim. I dont actully get anything done; too busy figuring out how to close my IDE.
-
+- **Primary**: Server side development | Python, Go and Javascript | MySQL, PostgreSQL and MongoDB.
+- **Learning**: always brushing up my skills in every area but moreso recently in Golang
+- **Environment**: Visual Studio-Windows | Looking to move to linux soon
 ### Hobbies
-In my free time I enjoy running jest tests as well as working unpaid hours.
+Chess and working out.
 
 ## 📈 My GitHub Stats
 
