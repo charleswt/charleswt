@@ -1,7 +1,7 @@
 # Charles Tiffany 👾
 
 ## 🖥️ About Me
-Part-time web developer, full-time debugger.
+Always working on a project, learning a new library or language.
 
 ### 🛠️ Skills
 - **Primary**: Server side development | Python, Go and Javascript | MySQL, PostgreSQL and MongoDB.
