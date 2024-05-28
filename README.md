@@ -12,4 +12,4 @@ Chess and working out.
 
 ## 📈 My GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=charleswt&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=charleswt&theme=highcontrast&hide_border=true&border_radius=3&exclude_days=Sun%2CTue%2CWed)](https://git.io/streak-stats)
